@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 En este capotulo veremos como suar GitHub para alojar en un remoto
+||||||| d97e390
+=======
+En este capitulo veremos como usar GitHub para alojar repositorios en remoto
+>>>>>>> bibliografia
